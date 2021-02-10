@@ -1,2 +1,2 @@
 # js-playgrnd
-Various exercise scripts in javascript
+Various exercise scripts from exercism.io in javascript
